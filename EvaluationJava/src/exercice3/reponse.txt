@@ -1,0 +1,19 @@
+Predicion de l'affichage de l'exécution de la méthode `main()` dans la classe `Alphabet` : 
+
+Classe A
+-----
+Classe A
+Classe B
+-----
+Classe A
+Classe B
+Classe C
+-----
+a = 1
+-----
+a = 4
+b = 2
+-----
+a = 9
+b = 3
+c = 8

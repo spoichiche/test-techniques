@@ -1,0 +1,5 @@
+Ceci est un simple fichier texte.
+Il servira aux tests pour l'évaluation php.
+Ce fichier plusieurs lignes.
+Au moins 4.
+Ou peut être 5.
